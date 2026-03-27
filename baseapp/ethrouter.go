@@ -81,3 +81,4 @@ func chainIdHandler(ctx sdk.Context, req cmtrpctypes.RPCRequest) (abci.ResponseE
 	res.Response = eip155ChainID.Bytes()
 	return res, nil
 }
+<<<<<<<>>>>>>>
