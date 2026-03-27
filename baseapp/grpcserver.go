@@ -98,3 +98,4 @@ func (app *BaseApp) RegisterGRPCServer(server gogogrpc.Server) {
 		server.RegisterService(newDesc, data.handler)
 	}
 }
+<<<<<<<<>>>>>>>>>
