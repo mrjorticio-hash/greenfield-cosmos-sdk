@@ -490,3 +490,4 @@ func setFailOnHandler(cfg client.TxConfig, tx signing.Tx, fail bool) signing.Tx 
 	builder.SetMsgs(msgs...)
 	return builder.GetTx()
 }
+<<<<<>>>>>
